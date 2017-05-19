@@ -60,12 +60,12 @@
                         <p>
                             <section>微格式是一种利用HTML的class属性来对网页添加注入新闻事件发生的日期和时间、个人电话号码、企业邮箱之类的附加信息的方法。</section>
                             <section>time元素代表24小时中的某个时刻或者某个日期，表示时刻允许带时差。有很多种格式。
-                                <section><time datatime="2016-6-15">2016年6月15日</time></section>
-                                <section><time datatime="2016-6-15">6月15日</time></section>
-                                <section><time datatime="2016-6-15">我的生日</time></section>
-                                <section><time datatime="2016-6-15T20:00">我的生日晚上8点</time></section>
-                                <section><time datatime="2016-6-15T20:00Z">我的生日晚上8点</time></section>
-                                <section><time datatime="2016-6-15T20:00+09：00">我生日的晚上8点的美国时间</time></section>
+                                <section>```<time datatime="2016-6-15">2016年6月15日</time>```</section>
+                                <section>```<time datatime="2016-6-15">6月15日</time>```</section>
+                                <section>```<time datatime="2016-6-15">我的生日</time>```</section>
+                                <section>```<time datatime="2016-6-15T20:00">我的生日晚上8点</time>```</section>
+                                <section>```<time datatime="2016-6-15T20:00Z">我的生日晚上8点</time>```</section>
+                                <section>```<time datatime="2016-6-15T20:00+09：00">我生日的晚上8点的美国时间</time>```</section>
                             </section>
                             <section>
                                 <h3>pubdata属性</h3>
